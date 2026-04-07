@@ -1,6 +1,6 @@
 # EcoTales V2 Lab Project
 
-EcoTales V2 is an educational web app based on your original site. It serves stored eco materials (texts and checklist images) by topic, language, and content type.
+EcoTales V2 is an educational web app based on my original site. It serves stored eco materials (texts and checklist images) by topic, language, and content type.
 
 ## Features
 
