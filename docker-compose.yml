@@ -1,0 +1,11 @@
+services:
+  ecotales:
+    build: .
+    container_name: ecotales_v2
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    volumes:
+      - ./data:/app/data
+    restart: unless-stopped
